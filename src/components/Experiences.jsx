@@ -6,13 +6,7 @@ export default function Experiences() {
   const experiencesList = [
   
    
-    {
-      id: 3,
-      title: 'Mountain Flights',
-      image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=800',
-      description: "Take a scenic flyby of Mount Everest and the high Himalayas from a bird's-eye perspective.",
-      tag: 'Sightseeing',
-    },
+ 
     {
       id: 4,
       title: 'White Water Rafting',
