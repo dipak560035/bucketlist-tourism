@@ -7,13 +7,7 @@ export default function Experiences() {
   
    
  
-    {
-      id: 4,
-      title: 'White Water Rafting',
-      image: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800',
-      description: 'Plunge down wild, glacial rivers fed directly from snowy peaks on thrilling rafting excursions.',
-      tag: 'Adrenaline',
-    },
+   
     {
       id: 5,
       title: 'Tandem Paragliding',
