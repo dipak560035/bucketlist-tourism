@@ -39,15 +39,7 @@ export default function Navbar() {
          
 
           {/* Right Action Button */}
-          <div className="hidden lg:flex items-center gap-4">
-            <a
-              href="#discovery"
-              className="flex items-center gap-2 px-5 py-2.5 rounded-full font-medium text-sm bg-gradient-to-r from-nepal-amber to-nepal-gold text-nepal-dark hover:shadow-[0_0_20px_rgba(245,158,11,0.4)] transition-all duration-300 transform hover:-translate-y-0.5"
-            >
-              <Compass className="h-4 w-4 animate-spin-slow" />
-              Book Now
-            </a>
-          </div>
+         
 
           {/* Mobile Menu Button */}
           <div className="flex lg:hidden">
