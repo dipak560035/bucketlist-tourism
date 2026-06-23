@@ -42,17 +42,7 @@ export default function Navbar() {
          
 
           {/* Desktop Nav Links */}
-          <nav className="hidden lg:flex items-center gap-8">
-            {navLinks.map((link) => (
-              <a
-                key={link.name}
-                href={link.href}
-                className="font-medium text-sm text-slate-300 hover:text-nepal-gold transition-colors duration-200 relative py-1 after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-0 after:bg-nepal-gold after:transition-all after:duration-300 hover:after:w-full"
-              >
-                {link.name}
-              </a>
-            ))}
-          </nav>
+         
 
           {/* Right Action Button */}
           <div className="hidden lg:flex items-center gap-4">
