@@ -41,9 +41,7 @@ export default function Navbar() {
           {/* Logo */}
           <a href="#home" className="flex items-center gap-2 group">
             
-            <span className="font-display font-extrabold text-2xl tracking-wider bg-gradient-to-r from-white via-slate-100 to-slate-300 bg-clip-text text-transparent group-hover:text-nepal-gold transition-colors duration-300">
-              BucketList<span className="text-nepal-gold">.</span>
-            </span>
+            
           </a>
 
           {/* Desktop Nav Links */}
