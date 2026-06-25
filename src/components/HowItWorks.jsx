@@ -19,9 +19,7 @@ export default function HowItWorks() {
           <span className="text-nepal-crimson font-display font-semibold tracking-widest text-xs uppercase block mb-3">
             Simple Process
           </span>
-          <h2 className="font-display font-black text-3xl sm:text-4xl lg:text-5xl text-white mb-6">
-            How BucketList Works
-          </h2>
+         
           <p className="text-base sm:text-lg text-slate-400 font-light">
             Embarking on a Himalayan adventure is simple and stress-free. Here is our seamless route from explorer to traveler.
           </p>
