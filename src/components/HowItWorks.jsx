@@ -6,15 +6,6 @@ export default function HowItWorks() {
   const steps = [
 
 
-    {
-      id: 3,
-      title: 'Travel',
-      subtitle: 'Explore the Peaks',
-      description: 'Land in Kathmandu to a direct greeting, receive full brief gear-checks, and step onto the mountain trails under native leadership.',
-      icon: Compass,
-      color: 'from-rose-400 to-nepal-crimson',
-      badgeColor: 'bg-nepal-crimson/20 text-nepal-crimson border-nepal-crimson/30',
-    },
   ];
 
   return (
