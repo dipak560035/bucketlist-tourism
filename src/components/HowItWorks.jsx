@@ -18,9 +18,7 @@ export default function HowItWorks() {
         <div className="text-center max-w-3xl mx-auto mb-20">
        
          
-          <p className="text-base sm:text-lg text-slate-400 font-light">
-            Embarking on a Himalayan adventure is simple and stress-free. Here is our seamless route from explorer to traveler.
-          </p>
+         
         </div>
 
         {/* Timeline Layout */}
