@@ -16,9 +16,7 @@ export default function HowItWorks() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-20">
-          <span className="text-nepal-crimson font-display font-semibold tracking-widest text-xs uppercase block mb-3">
-            Simple Process
-          </span>
+       
          
           <p className="text-base sm:text-lg text-slate-400 font-light">
             Embarking on a Himalayan adventure is simple and stress-free. Here is our seamless route from explorer to traveler.
