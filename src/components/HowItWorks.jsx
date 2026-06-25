@@ -5,15 +5,7 @@ import { Search, Sliders, Compass, Flag } from 'lucide-react';
 export default function HowItWorks() {
   const steps = [
 
-    {
-      id: 2,
-      title: 'Customize',
-      subtitle: 'Personalize the Tour',
-      description: 'Refine your route, choose accommodations (ranging from classic village tea houses to premium jungle camps), and add custom rests.',
-      icon: Sliders,
-      color: 'from-cyan-400 to-nepal-teal',
-      badgeColor: 'bg-nepal-teal/20 text-nepal-teal border-nepal-teal/30',
-    },
+
     {
       id: 3,
       title: 'Travel',
