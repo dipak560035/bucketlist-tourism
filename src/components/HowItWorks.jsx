@@ -39,9 +39,7 @@ export default function HowItWorks() {
                     {/* Ring Pulse */}
                     <div className="absolute inset-0 rounded-2xl bg-white/5 opacity-0 group-hover:opacity-100 group-hover:scale-125 transition-all duration-500 blur-sm" />
                     
-                    <div className={`h-24 w-24 rounded-3xl bg-gradient-to-tr ${step.color} text-nepal-dark flex items-center justify-center shadow-lg transition-transform duration-500 group-hover:rotate-6`}>
-                      <IconComp className="h-10 w-10 stroke-[2]" />
-                    </div>
+                  
                     
                     {/* Number Badge */}
                     <div className="absolute -top-3 -right-3 h-8 w-8 rounded-full bg-slate-900 border border-white/10 flex items-center justify-center font-display font-bold text-sm text-white">
