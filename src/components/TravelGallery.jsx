@@ -8,13 +8,7 @@ export default function TravelGallery() {
   const galleryItems = [
   
   
-    {
-      id: 3,
-      title: 'Annapurna Base Camp Trek',
-      location: 'Annapurna Range',
-      image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=800',
-      aspect: 'aspect-[4/3]',
-    },
+  
     {
       id: 4,
       title: 'One-Horned Rhino Safari',
