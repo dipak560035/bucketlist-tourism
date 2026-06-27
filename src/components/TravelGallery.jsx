@@ -6,13 +6,7 @@ export default function TravelGallery() {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const galleryItems = [
-    {
-      id: 1,
-      title: 'Everest Golden Sunrise',
-      location: 'Sagarmatha National Park',
-      image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=800',
-      aspect: 'aspect-[3/4]',
-    },
+  
     {
       id: 2,
       title: 'Tranquil Pokhara Lakeside',
