@@ -57,9 +57,7 @@ export default function TravelGallery() {
           <span className="text-nepal-teal font-display font-semibold tracking-widest text-xs uppercase block mb-3">
             Moments Captured
           </span>
-          <h2 className="font-display font-black text-3xl sm:text-4xl lg:text-5xl text-white mb-6">
-            Nepal Travel Gallery
-          </h2>
+       
           <p className="text-base sm:text-lg text-slate-400 font-light">
             Browse beautiful snaps of majestic peaks, cultural temples, wild safaris, and high-altitude adventures captured by our guides and travelers.
           </p>
