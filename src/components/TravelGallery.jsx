@@ -37,13 +37,7 @@ export default function TravelGallery() {
       image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=800',
       aspect: 'aspect-[4/3]',
     },
-    {
-      id: 8,
-      title: 'Vibrant Holi Festival spirituals',
-      location: 'Basantapur Durbar Square',
-      image: 'https://images.unsplash.com/photo-1518546305927-5a555bb7020d?q=80&w=800&sig=1',
-      aspect: 'aspect-[3/5]',
-    },
+ 
   ];
 
   return (
