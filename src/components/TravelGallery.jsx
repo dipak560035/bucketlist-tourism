@@ -7,13 +7,7 @@ export default function TravelGallery() {
 
   const galleryItems = [
   
-    {
-      id: 2,
-      title: 'Tranquil Pokhara Lakeside',
-      location: 'Phewa Lake, Pokhara',
-      image: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800',
-      aspect: 'aspect-square',
-    },
+  
     {
       id: 3,
       title: 'Annapurna Base Camp Trek',
