@@ -56,9 +56,7 @@ export default function TravelGallery() {
         <div className="text-center max-w-3xl mx-auto mb-16">
           
        
-          <p className="text-base sm:text-lg text-slate-400 font-light">
-            Browse beautiful snaps of majestic peaks, cultural temples, wild safaris, and high-altitude adventures captured by our guides and travelers.
-          </p>
+         
         </div>
 
         {/* Pinterest Masonry Grid */}
