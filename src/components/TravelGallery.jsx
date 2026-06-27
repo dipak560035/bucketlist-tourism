@@ -78,9 +78,7 @@ export default function TravelGallery() {
                   <MapPin className="h-3 w-3" />
                   {item.location}
                 </span>
-                <h3 className="font-display font-bold text-lg text-white">
-                  {item.title}
-                </h3>
+               
               </div>
 
               {/* Floating Magnify Badge on Hover */}
