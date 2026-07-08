@@ -78,9 +78,7 @@ export default function Hero() {
               className="font-display font-extrabold text-4xl sm:text-5xl lg:text-7xl text-white leading-tight"
             >
               Your Dream <br />
-              <span className="bg-gradient-to-r from-nepal-gold via-orange-400 to-nepal-amber bg-clip-text text-transparent">
-                Nepal Adventure
-              </span> <br />
+             <br />
               Starts Here
             </motion.h1>
 
