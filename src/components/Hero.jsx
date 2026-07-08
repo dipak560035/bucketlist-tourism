@@ -57,12 +57,7 @@ export default function Hero() {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
         <div className="grid lg:grid-cols-12 gap-12 items-center">
           {/* Headline & CTAs */}
-          <motion.div
-            variants={containerVariants}
-            initial="hidden"
-            animate="visible"
-            className="lg:col-span-7 text-left space-y-6"
-          >
+    
             {/* Tagline */}
             <motion.div
               variants={itemVariants}
