@@ -15,18 +15,7 @@ export default function Destinations() {
   const destinationsList = [
   
 
-    {
-      id: 3,
-      name: 'Annapurna Circuit',
-      image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=800',
-      description: 'Journey through diverse climates, deep gorges, and high mountain passes, culminating at the breathtaking Thorong La Pass.',
-      rating: 4.9,
-      reviews: '1,080',
-      price: '$1,299',
-      duration: '12 Days',
-      difficulty: 'Moderate',
-      badge: 'Bucket List Special',
-    },
+    
     {
       id: 4,
       name: 'Chitwan National Park',
