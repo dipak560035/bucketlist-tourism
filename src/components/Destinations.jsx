@@ -14,18 +14,7 @@ export default function Destinations() {
 
   const destinationsList = [
   
-    {
-      id: 2,
-      name: 'Pokhara Valley',
-      image: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800',
-      description: 'Relax by the tranquil Phewa Lake, marvel at the Annapurna reflection, and experience paragliding with panoramic mountain views.',
-      rating: 4.8,
-      reviews: '950',
-      price: '$699',
-      duration: '5 Days',
-      difficulty: 'Easy',
-      badge: 'Most Popular',
-    },
+
     {
       id: 3,
       name: 'Annapurna Circuit',
