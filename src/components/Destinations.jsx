@@ -13,18 +13,7 @@ export default function Destinations() {
   };
 
   const destinationsList = [
-    {
-      id: 1,
-      name: 'Everest Base Camp',
-      image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=800',
-      description: "Trek to the base of the world's tallest peak, passing through Sherpa villages, ancient monasteries, and spectacular glacial landscapes.",
-      rating: 4.9,
-      reviews: '1,240',
-      price: '$1,499',
-      duration: '14 Days',
-      difficulty: 'Challenging',
-      badge: 'Best Seller',
-    },
+  
     {
       id: 2,
       name: 'Pokhara Valley',
