@@ -21,9 +21,7 @@ export default function Experiences() {
         {/* Section Header */}
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
           <div className="text-left max-w-2xl">
-            <span className="text-nepal-teal font-display font-semibold tracking-widest text-xs uppercase block mb-3">
-              Unforgettable Activities
-            </span>
+           
             <h2 className="font-display font-black text-3xl sm:text-4xl lg:text-5xl text-white">
               Signature Nepal Experiences
             </h2>
