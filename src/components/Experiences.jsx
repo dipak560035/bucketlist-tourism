@@ -6,13 +6,7 @@ import { Compass, ShieldCheck, Heart, ArrowUpRight } from 'lucide-react';
 export default function Experiences() {
   const experiencesList = [
   
-    {
-      id: 2,
-      title: 'Wildlife Safari',
-      image: 'https://images.unsplash.com/photo-1549366021-9f761d450615?q=80&w=800',
-      description: 'Explore deep subtropical grasslands searching for one-horned rhinos, Bengal tigers, and exotic bird species.',
-      tag: 'Nature',
-    },
+   
     {
       id: 3,
       title: 'Mountain Flights',
