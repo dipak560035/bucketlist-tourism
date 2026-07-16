@@ -8,13 +8,7 @@ export default function Experiences() {
   
    
  
-    {
-      id: 5,
-      title: 'Tandem Paragliding',
-      image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=800',
-      description: "Soar alongside eagles over Pokhara's lakes with direct backdrops of the snowy Annapurna range.",
-      tag: 'Aviation',
-    },
+   
     {
       id: 6,
       title: 'Cultural Heritage Tours',
