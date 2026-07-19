@@ -52,18 +52,7 @@ export default function Destinations() {
       difficulty: 'Easy',
       badge: 'Cultural Heritage',
     },
-    {
-      id: 6,
-      name: 'Upper Mustang',
-      image: 'https://images.unsplash.com/photo-1527631746610-bca00a040d60?q=80&w=800',
-      description: 'Step back in time to the forbidden kingdom of Lo, featuring mystical cave dwellings, red clay cliffs, and Tibetan Buddhist culture.',
-      rating: 4.9,
-      reviews: '340',
-      price: '$2,199',
-      duration: '10 Days',
-      difficulty: 'Moderate',
-      badge: 'Exclusive Tour',
-    },
+
   ];
 
   return (
