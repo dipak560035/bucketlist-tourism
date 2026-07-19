@@ -50,18 +50,7 @@ export default function Destinations() {
       difficulty: 'Moderate',
       badge: 'Bucket List Special',
     },
-    {
-      id: 4,
-      name: 'Chitwan National Park',
-      image: 'https://images.unsplash.com/photo-1549366021-9f761d450615?q=80&w=800',
-      description: 'Embark on an epic jungle safari to spot rare one-horned rhinos, Bengal tigers, and enjoy local Tharu cultural performances.',
-      rating: 4.7,
-      reviews: '820',
-      price: '$450',
-      duration: '3 Days',
-      difficulty: 'Easy',
-      badge: 'Wildlife Focus',
-    },
+
     {
       id: 5,
       name: 'Lumbini Sacred Garden',
