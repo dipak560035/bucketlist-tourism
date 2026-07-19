@@ -39,16 +39,7 @@ export default function Destinations() {
             className="text-nepal-gold font-display font-semibold tracking-widest text-xs uppercase block mb-3"
           >
             Epic Destinations
-          </motion.span>
-          <motion.h2
-            initial={{ opacity: 0, y: 15 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-            className="font-display font-black text-3xl sm:text-4xl lg:text-5xl text-white mb-6"
-          >
-            Popular Nepal Destinations
-          </motion.h2>
+         
           <motion.p
             initial={{ opacity: 0, y: 15 }}
             whileInView={{ opacity: 1, y: 0 }}
