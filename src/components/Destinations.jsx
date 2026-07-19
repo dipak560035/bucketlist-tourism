@@ -18,18 +18,7 @@ export default function Destinations() {
 
  
 
-    {
-      id: 5,
-      name: 'Lumbini Sacred Garden',
-      image: 'https://images.unsplash.com/photo-1518546305927-5a555bb7020d?q=80&w=800',
-      description: 'Explore the sacred birthplace of Gautama Buddha, wander through tranquil monasteries, and reflect by the historic Maya Devi temple.',
-      rating: 4.8,
-      reviews: '510',
-      price: '$399',
-      duration: '4 Days',
-      difficulty: 'Easy',
-      badge: 'Cultural Heritage',
-    },
+
 
   ];
 
