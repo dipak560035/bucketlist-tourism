@@ -5,13 +5,7 @@ import { Compass, ShieldCheck, Heart, ArrowUpRight } from 'lucide-react';
 
 export default function Experiences() {
   const experiencesList = [
-    {
-      id: 1,
-      title: 'Himalayan Trekking',
-      image: 'https://images.unsplash.com/photo-1527631746610-bca00a040d60?q=80&w=800',
-      description: "Conquer remote high passes and marvel at the world's most impressive skylines on foot.",
-      tag: 'Adventure',
-    },
+   
     {
       id: 2,
       title: 'Wildlife Safari',
