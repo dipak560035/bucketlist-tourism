@@ -9,13 +9,7 @@ export default function Experiences() {
     
 
   
-    {
-      id: 6,
-      title: 'Cultural Heritage Tours',
-      image: 'https://images.unsplash.com/photo-1518546305927-5a555bb7020d?q=80&w=800',
-      description: 'Wander through centuries-old temples, local pottery markets, and attend vibrant spiritual festivals.',
-      tag: 'History',
-    },
+ 
   ];
 
   return (
