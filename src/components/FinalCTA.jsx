@@ -14,9 +14,7 @@ export default function FinalCTA() {
             backgroundImage: "url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=1920')",
           }}
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-nepal-dark via-nepal-dark/70 to-nepal-dark" />
-        <div className="absolute inset-0 bg-gradient-to-r from-nepal-dark/95 via-transparent to-nepal-dark/90" />
-      </div>
+       
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
         <div className="max-w-3xl mx-auto space-y-8">
