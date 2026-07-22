@@ -18,16 +18,7 @@ export default function FinalCTA() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
         <div className="max-w-3xl mx-auto space-y-8">
-          <motion.div
-            initial={{ opacity: 0, scale: 0.9 }}
-            whileInView={{ opacity: 1, scale: 1 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.5 }}
-            className="inline-flex items-center gap-2 px-4 py-1 bg-white/10 backdrop-blur-md border border-white/20 text-xs font-semibold uppercase tracking-wider text-nepal-gold rounded-full"
-          >
-            <Compass className="h-4 w-4 animate-spin-slow" />
-            Pack Your Bags
-          </motion.div>
+         
 
          
 
