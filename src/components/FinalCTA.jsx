@@ -29,16 +29,7 @@ export default function FinalCTA() {
             Pack Your Bags
           </motion.div>
 
-          <motion.h2
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-            className="font-display font-black text-4xl sm:text-5xl lg:text-6xl text-white leading-tight"
-          >
-            Ready for Your <br />
-           
-          </motion.h2>
+         
 
           <motion.p
             initial={{ opacity: 0, y: 30 }}
