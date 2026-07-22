@@ -31,15 +31,7 @@ export default function FinalCTA() {
 
          
 
-          <motion.p
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.7 }}
-            className="text-lg sm:text-xl text-slate-300 font-light max-w-2xl mx-auto leading-relaxed"
-          >
-            Whether you want to climb Everest Base Camp, glide over Pokhara, or wander temple shrines, our expert local team will design a safe, unforgettable journey.
-          </motion.p>
+       
 
           {/* Action CTAs */}
           <motion.div
