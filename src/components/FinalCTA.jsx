@@ -32,12 +32,7 @@ export default function FinalCTA() {
             transition={{ duration: 0.8 }}
             className="flex flex-col sm:flex-row gap-4 justify-center pt-4"
           >
-            <a
-              href="#discovery"
-              className="flex items-center justify-center gap-2 px-8 py-4 rounded-full font-medium bg-gradient-to-r from-nepal-amber to-nepal-gold text-nepal-dark hover:shadow-[0_0_30px_rgba(245,158,11,0.5)] transition-all duration-300 transform hover:-translate-y-0.5"
-            >
-              Start Exploring
-            </a>
+           
             <a
               href="#footer"
               className="flex items-center justify-center gap-3 px-8 py-4 rounded-full font-medium bg-white/5 border border-white/20 text-white hover:bg-white/10 hover:border-white/35 transition-all duration-300 backdrop-blur-md"
