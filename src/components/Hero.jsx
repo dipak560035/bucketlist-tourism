@@ -17,16 +17,6 @@ export default function Hero() {
 
  
 
-  const floatVariants = {
-    animate: {
-      y: [0, -10, 0],
-      transition: {
-        duration: 4,
-        repeat: Infinity,
-        ease: 'easeInOut',
-      },
-    },
-  };
 
   return (
     <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden py-24">
