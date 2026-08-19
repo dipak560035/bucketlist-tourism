@@ -54,14 +54,7 @@ export default function Hero() {
             </motion.div>
 
             {/* Main Headline */}
-            <motion.h1
-              variants={itemVariants}
-              className="font-display font-extrabold text-4xl sm:text-5xl lg:text-7xl text-white leading-tight"
-            >
-              Your Dream <br />
            
-              Starts Here
-            </motion.h1>
 
             {/* Subheadline */}
          
