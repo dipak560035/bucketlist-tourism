@@ -71,13 +71,7 @@ export default function Hero() {
               variants={itemVariants}
               className="flex flex-col sm:flex-row gap-4 pt-4"
             >
-              <a
-                href="#destinations"
-                className="group flex items-center justify-center gap-2 px-8 py-4 rounded-full font-medium bg-gradient-to-r from-nepal-amber to-nepal-gold text-nepal-dark hover:shadow-[0_0_30px_rgba(245,158,11,0.5)] transition-all duration-300 transform hover:-translate-y-0.5"
-              >
-                Explore Trips
-                <ArrowRight className="h-5 w-5 group-hover:translate-x-1 transition-transform" />
-              </a>
+            
               <button
                 onClick={() => document.getElementById('gallery')?.scrollIntoView({ behavior: 'smooth' })}
                 className="flex items-center justify-center gap-3 px-8 py-4 rounded-full font-medium bg-white/5 border border-white/20 text-white hover:bg-white/15 hover:border-white/40 transition-all duration-300 backdrop-blur-md"
