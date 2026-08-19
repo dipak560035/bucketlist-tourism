@@ -39,12 +39,7 @@ export default function Hero() {
   return (
     <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden py-24">
       {/* Background Image with Parallax & Zoom effect */}
-      <div className="absolute inset-0 z-0 overflow-hidden">
-       
-        {/* Multilayered overlays for premium contrast */}
-        <div className="absolute inset-0 bg-gradient-to-b from-nepal-dark/40 via-nepal-dark/60 to-nepal-dark" />
-        <div className="absolute inset-0 bg-gradient-to-r from-nepal-dark/80 via-transparent to-nepal-dark/50" />
-      </div>
+    
 
       {/* Main Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
