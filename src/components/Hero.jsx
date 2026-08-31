@@ -128,6 +128,13 @@ export default function Hero() {
                     <div className="p-3 bg-nepal-gold/20 text-nepal-gold rounded-xl">
                       <Users className="h-6 w-6" />
                     </div>
+                     <motion.div
+              variants={itemVariants}
+              className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-semibold tracking-wider text-nepal-gold uppercase"
+            >
+              <MapPin className="h-3.5 w-3.5" />
+              Roof of the World
+            </motion.div>
                     <div>
                       <h4 className="font-display font-extrabold text-2xl text-white">10,000+</h4>
                       <p className="text-sm text-slate-400">Happy Travelers</p>
