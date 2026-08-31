@@ -88,12 +88,7 @@ export default function Hero() {
             </motion.h1>
 
             {/* Subheadline */}
-            <motion.p
-              variants={itemVariants}
-              className="text-lg sm:text-xl text-slate-200 font-light max-w-2xl leading-relaxed"
-            >
-              Discover breathtaking mountains, vibrant cultures, hidden gems, and unforgettable experiences across Nepal.
-            </motion.p>
+      
 
             {/* CTAs */}
             <motion.div
