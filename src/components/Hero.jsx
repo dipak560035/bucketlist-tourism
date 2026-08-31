@@ -55,6 +55,13 @@ export default function Hero() {
         <div className="absolute inset-0 bg-gradient-to-b from-nepal-dark/40 via-nepal-dark/60 to-nepal-dark" />
         <div className="absolute inset-0 bg-gradient-to-r from-nepal-dark/80 via-transparent to-nepal-dark/50" />
       </div>
+       <motion.div
+              variants={itemVariants}
+              className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-semibold tracking-wider text-nepal-gold uppercase"
+            >
+              <MapPin className="h-3.5 w-3.5" />
+              Roof of the World
+            </motion.div>
 
       {/* Main Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
