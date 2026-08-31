@@ -152,16 +152,7 @@ export default function Hero() {
               </GlassCard>
 
               {/* Minor Floating Detail Badge */}
-              <motion.div
-                initial={{ opacity: 0, scale: 0.8 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ delay: 1, duration: 0.8 }}
-                className="absolute -top-6 -left-6 bg-gradient-to-r from-nepal-teal to-cyan-500 text-white px-4 py-2 rounded-2xl shadow-xl flex items-center gap-2 border border-white/20"
-              >
-                <div className="h-2 w-2 rounded-full bg-green-400 animate-ping" />
-                <span className="font-display text-sm font-semibold">Liveeeee trekking updates</span>
-              </motion.div>
-            </motion.div>
+            
           </div>
         </div>
       </div>
