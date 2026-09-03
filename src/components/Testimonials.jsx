@@ -37,10 +37,18 @@ export default function Testimonials() {
       id: 3,
       name: 'Maya Sharma',
       country: 'India',
-      image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&q=80',
+      image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop',
       rating: 5,
       review: "BucketList organized a custom heritage tour of Kathmandu temples combined with a safari in Chitwan. The diversity of the sights was stunning. The 24/7 helpline saved us when our flight got delayed. Excellent ground support.",
     },
+      {
+      id: 88,
+      name: 'Maya Sharma',
+      country: 'India',
+      image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop',
+      rating: 5,
+      review: "BucketList organized a custom heritage tour of Kathmandu temples combined with a safari in Chitwan. The diversity of the sights was stunning. The 24/7 helpline saved us when our flight got delayed. Excellent ground support.",
+    }
     {
       id: 4,
       name: 'Thomas Müller',
