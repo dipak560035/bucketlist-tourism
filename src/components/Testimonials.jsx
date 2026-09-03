@@ -25,6 +25,14 @@ export default function Testimonials() {
       rating: 5,
       review: "The paragliding over Phewa Lake in Pokhara is a memory I will carry forever. The organization was super professional, the equipment was brand new, and booking through the platform took less than 2 minutes. Strongly recommend!",
     },
+        {
+      id: 9,
+      name: 'Oliver Dupont',
+      country: 'France',
+      image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&q=80',
+      rating: 5,
+      review: "The paragliding over Phewa Lake in Pokhara is a memory I will carry forever. The organization was super professional, the equipment was brand new, and booking through the platform took less than 2 minutes. Strongly recommend!",
+    },
     {
       id: 3,
       name: 'Maya Sharma',
